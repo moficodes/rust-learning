@@ -1,0 +1,33 @@
+[submodule "collections"]
+	path = collections
+	url = ./
+[submodule "guessing_game"]
+	path = guessing_game
+	url = ./
+[submodule "enums"]
+	path = enums
+	url = ./
+[submodule "error-handling"]
+	path = error-handling
+	url = ./
+[submodule "match-operator"]
+	path = match-operator
+	url = ./
+[submodule "crates-packages"]
+	path = crates-packages
+	url = ./
+[submodule "mods"]
+	path = mods
+	url = ./
+[submodule "mod-use"]
+	path = mod-use
+	url = ./
+[submodule "ownership"]
+	path = ownership
+	url = ./
+[submodule "structs"]
+	path = structs
+	url = ./
+[submodule "variables"]
+	path = variables
+	url = ./
